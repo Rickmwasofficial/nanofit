@@ -6,7 +6,7 @@
 
 Repository: https://github.com/Rickmwasofficial/nanofit.git
 
-Building Nanofit, a minimal machine learning library. Implementing LinearRegression with various techniques, normal equation and optimizations using all gradient descent methods, batch, stochastic and Mini batch.
+Nanofit, a minimal machine learning library. Attempting to implement various ML algoriths from scratch. Currently implemented, LinearRegression with various techniques, normal equation and optimizations using all gradient descent methods, batch, stochastic and Mini batch.
 
 ## Comparisons
 
